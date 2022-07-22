@@ -27,7 +27,7 @@ I have the most knowledge in these languages
 </p>
 
 ### Social Media
-
+<hr />
 <p align=left>
 <a target="_blank" href="https://discords.com/bio/p/iceblizzard">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
@@ -38,4 +38,7 @@ I have the most knowledge in these languages
 
 <a target="_blank" href="https://www.youtube.com/channel/UCGogCYz6CvPqyC4KpyKWqvQ">
   <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
+
+Don't hesitate to reach out as it can be based on project related stuff, or to just have a conversation.
