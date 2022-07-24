@@ -4,7 +4,7 @@ Hello everyone my name is Douglas, and I am an entitled developer that focuses o
 Languages such as Java, Python, HTML/CSS, and Java Script are languages I specialize under. I am currently enrolled in university going for my Bachelor's
 degree in Data Science. 
   
-<h1 align=left>Expertise 📚🌠</h1>
+<h1 align=left>Techstack 📚🌠</h1>
 <p align=center>
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougDevelopz&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 <p align=left>
